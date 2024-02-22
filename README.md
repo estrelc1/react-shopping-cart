@@ -48,6 +48,9 @@ npm start
 /* To run the tests */
 npm run test
 
+/* To run cypres tests */
+npm run cypress:test
+
 ```
 
 ### Copyright and license
